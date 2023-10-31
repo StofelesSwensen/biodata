@@ -8,16 +8,6 @@
     <link rel="stylesheet" href="styles-mobile.css" media="screen and (max-width: 768px)">
 </head>
 
-<style>
-    .info {
-        display: flex;
-        justify-content: right;
-    }
-    .left, .right {
-        width: 50%; /* Each column takes up half the width */
-    }
-</style>
-
 <body>
 <?php require('action.php'); ?>
     <div>
